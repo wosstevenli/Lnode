@@ -1,3 +1,3 @@
 var name="Hello";
 var xin = "GOOGLE!";
-console.log(xin+name);
+console.log(xin+name+123);
