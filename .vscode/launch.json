@@ -8,7 +8,7 @@
             "type": "node",
             "request": "launch",
             "name": "Lnode",
-            "program": "${workspaceRoot}/hello.js",
+            "program": "${workspaceRoot}/hi.js",
             "cwd": "${workspaceRoot}"
         },
         {
